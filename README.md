@@ -7,7 +7,7 @@
 
 ## 游戏截图
 
-> 截图待添加
+![Asteroid Mail Screenshot](./screenshot.png)
 
 ## 运行
 
